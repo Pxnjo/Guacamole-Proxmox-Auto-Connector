@@ -1,0 +1,26 @@
+{
+    "102": {
+        "parentIdentifier": "ROOT",
+        "name": "deb12",
+        "protocol": "rdp",
+        "parameters": {
+            "port": "3389",
+            "ignore-cert": "true",
+            "hostname": "10.20.85.252",
+            "username": "guacamole",
+            "password": "Vmware1!"
+        }
+    },
+    "105": {
+        "parentIdentifier": "ROOT",
+        "name": "gg",
+        "protocol": "rdp",
+        "parameters": {
+            "port": "3389",
+            "ignore-cert": "true",
+            "hostname": "10.20.85.253",
+            "username": "guacamole",
+            "password": "Vmware1!"
+        }
+    }
+}
