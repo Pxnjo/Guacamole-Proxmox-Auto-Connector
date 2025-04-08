@@ -11,7 +11,7 @@ Although the script is designed primarily for RDP, with minor adjustments, it ca
 All the necessary settings must be configured inside the [`config.py`](./config.py) file.
 
 > 💡 **Important**: If you're using **TOTP-based 2FA** in Guacamole, you must also fill in the `key` field with the QR secret the first time you scan the code. If you don't have access to the TOTP key, there are two workarounds:
-
+>
 > 1. Create a new admin user and save the key upon first login.
 > 2. From Guacamole settings, you should be able to reset the TOTP secret manually.
 
